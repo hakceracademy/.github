@@ -21,7 +21,9 @@ Security learning materials curated by the SecKC community. A polished hub for e
 * **Browse curriculum docs:** [`curriculum_docs`](https://github.com/hakceracademy/seckc-academy-resources/tree/main/curriculum_docs)
 * **Explore transcripts:** [`transcripts`](https://github.com/hakceracademy/seckc-academy-resources/tree/main/transcripts)
 * **Allowed taxonomy:** [`allowed_categories.json`](https://github.com/hakceracademy/seckc-academy-resources/blob/main/allowed_categories.json)
-* **Source dataset:** [`SecKC_Academy_Source_Data.csv`](https://github.com/hakceracademy/seckc-academy-resources/blob/main/SecKC_Academy_Source_Data.csv)
+* **Source dataset:** [`SecKC_Academy_Source_Data.csv`](https://github.com/hakceracademy/seckc-academy-resources/blob/main/SecKC_Academy_Source_Data.csv) or   <img width="1507" height="802" alt="Screenshot 2025-09-21 at 6 15 39 PM" src="https://github.com/user-attachments/assets/ee063356-5f42-4daa-8b00-f170861bf633" />
+
+https://docs.google.com/spreadsheets/d/1zVUpkJXoEj5FDd2JmLUUOTsLIpDxtD6VomU5K5AaJJQ/edit?usp=sharing
 * **NotebookLM collections per track:**
 
 
@@ -68,9 +70,7 @@ graph TD
 * Allowed taxonomy enforces a clean category mapping
 * NotebookLM ingests repository data and transcripts for research
 
-  <img width="1507" height="802" alt="Screenshot 2025-09-21 at 6 15 39 PM" src="https://github.com/user-attachments/assets/ee063356-5f42-4daa-8b00-f170861bf633" />
 
-https://docs.google.com/spreadsheets/d/1zVUpkJXoEj5FDd2JmLUUOTsLIpDxtD6VomU5K5AaJJQ/edit?usp=sharing
 
 Contribution guide and scripts live at:
 
