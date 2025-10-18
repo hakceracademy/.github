@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
 </p>
 
-Security learning materials curated by the SecKC community. A polished hub for exploring tracks, talks, transcripts, and NotebookLM notebooks built from public SecKC data since 2011.
+`SecKC.Academy`
 
+Security learning materials curated by the SecKC community. A polished hub for exploring tracks, talks, transcripts, and NotebookLM notebooks built from public SecKC data since 2011.
 
 
 ## DataPipeline to Tracks at a glance
